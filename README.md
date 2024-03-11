@@ -56,10 +56,9 @@
 
 <div align="center">
     <h2>🔥🔥STATS🔥🔥</h2>
-    <img align="center src="https://github-readme-stats.vercel.app/api?username=Med-blbb&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Med-blbb&show_icons=true&theme=radical" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-med-blbb.vercel.app/api/top-langs/?username=Med-blbb&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+ 
 
 <br/><br/>
 
