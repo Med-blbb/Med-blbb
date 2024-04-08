@@ -44,20 +44,20 @@
 <br/>
 <hr/>
 
-<div align="center">
+/*<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Med-blbb/Med-blbb/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
-</div>
+</div>/*
 
 <hr/>
 
-/*<div align="center">
+<div align="center">
     <h2>🔥🔥STATS🔥🔥</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=Med-blbb&show_icons=true&theme=radical" />
-  <br/>/*
+  <br/>
  
 
 <br/><br/>
