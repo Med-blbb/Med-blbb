@@ -46,13 +46,6 @@
 
 
 
-<hr/>
-
-<div align="center">
-    <h2>🔥🔥STATS🔥🔥</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Med-blbb&show_icons=true&theme=radical" />
-  <br/>
- 
 
 <br/><br/>
 
